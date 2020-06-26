@@ -1,0 +1,30 @@
+Columnas propuestas (primera versión):
+HV024 (Región, del 1 al 25 los departamentos del Perú)
+HV025 (Área de residencia, 1: Urbano, 2:Rural)
+HV026 (Lugar de residencia,  0: Capital, gran ciudad, 1: Pequeña ciudad, 2: Pueblo, 3: Campo)
+UBIGEO:  Código departamento + Código Provincia + Código Distrito http://webinei.inei.gob.pe:8080/sisconcode/proyecto/index.htm?proyectoTitulo=UBIGEO&proyectoId=3
+
+HC1: Edad en meses
+HC27: Sexo (1 Hombre, 2 Mujer)
+HV201: Fuente principal de abastecimiento de agua para TOMAR
+HV202: Fuente principal de agua (General)
+HV205: Tipo de servicio higiénico
+HV206: Electricidad en el hogar (binario)
+HV213: Material predominante en el piso
+HV214: Material de paredes exteriores
+HV215: Material Techo
+HV237: ¿Se trata el agua antes de beber? (binario)
+HV237A: Se hierve el agua (binario)
+HV237B: Se le pone al agua lejía o cloro (binario)
+HV237C: Se filtra el agua con un paño (binario)
+HV237D: Su usa agua filtrada (binario)
+HV246: Dueño de ganadería (binario) si tiene animales.
+HV246[], son variables binarias por tipo de animal.
+SH48: Conserva el agua en un recipiente (binario)
+SH50: Conserva el agua en un recipiente tapado (binario)
+SH58: Lugar en donde se tira la basura.
+SH59: Frecuencia del recojo de la basura.
+SH61Q: Acceso a internet.
+HV270: Indice de riqueza (1 más pobre, 5 más rico)
+HV271: Factor de puntuación del índice de riqueza.
+HC61: (Nivel de educación de la madre)
