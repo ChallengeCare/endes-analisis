@@ -1,3 +1,8 @@
+Diccionarios:
+- Modulo 64, DiccionarioHogar - RECH0
+- Modulo 65, DiccionarioHogar - RECH23
+- Modulo 74, DiccionarioIndividual - RECH6
+
 Columnas propuestas (primera versión):
 
 HC57 (Nivel de anemia)
