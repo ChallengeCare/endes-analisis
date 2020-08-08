@@ -1,0 +1,445 @@
+Nº,VARIABLE,DESCRIPCIÓN DE LAS VARIABLES,TIPO DE CARÁCTER,LONGITUD,RANGO DE VARIACIÓN,VALORES,DESCRIPCIÓN DE LAS ALTERNATIVAS,OBS
+1,ID1,Año,N,4,,,,
+2,HHID,Identificacion Cuestionario del Hogar,AN,15,000100101:317599999,,,
+3,HV201,¿Cuál es la fuente principal de abastecimiento de agua para tomar o beber?,N,2,"11:13, 21:22, 41, 43, 51, 61, 71, 96",11,Dentro de la vivienda,
+3,HV201,¿Cuál es la fuente principal de abastecimiento de agua para tomar o beber?,N,2,"11:13, 21:22, 41, 43, 51, 61, 71, 96",12,"Fuera de la vivienda, pero dentro del edificio",
+3,HV201,¿Cuál es la fuente principal de abastecimiento de agua para tomar o beber?,N,2,"11:13, 21:22, 41, 43, 51, 61, 71, 96",13,Pilón/Grifo público,
+3,HV201,¿Cuál es la fuente principal de abastecimiento de agua para tomar o beber?,N,2,"11:13, 21:22, 41, 43, 51, 61, 71, 96",21,Pozo en la vivineda/patio/lote,
+3,HV201,¿Cuál es la fuente principal de abastecimiento de agua para tomar o beber?,N,2,"11:13, 21:22, 41, 43, 51, 61, 71, 96",22,Pozo público,
+3,HV201,¿Cuál es la fuente principal de abastecimiento de agua para tomar o beber?,N,2,"11:13, 21:22, 41, 43, 51, 61, 71, 96",41,Manantial (puquio),
+3,HV201,¿Cuál es la fuente principal de abastecimiento de agua para tomar o beber?,N,2,"11:13, 21:22, 41, 43, 51, 61, 71, 96",43,Río/acequia/laguna,
+3,HV201,¿Cuál es la fuente principal de abastecimiento de agua para tomar o beber?,N,2,"11:13, 21:22, 41, 43, 51, 61, 71, 96",51,Agua de lluvia,
+3,HV201,¿Cuál es la fuente principal de abastecimiento de agua para tomar o beber?,N,2,"11:13, 21:22, 41, 43, 51, 61, 71, 96",61,Camión cisterna,
+3,HV201,¿Cuál es la fuente principal de abastecimiento de agua para tomar o beber?,N,2,"11:13, 21:22, 41, 43, 51, 61, 71, 96",71,Agua embotellada,
+3,HV201,¿Cuál es la fuente principal de abastecimiento de agua para tomar o beber?,N,2,"11:13, 21:22, 41, 43, 51, 61, 71, 96",96,Otro,
+4,HV202,¿Cuál es la fuente principal de abastecimiento de agua en su hogar?,N,2,"11:13, 21:22, 41, 43, 51, 61, 96",11,Dentro de la vivienda,
+4,HV202,¿Cuál es la fuente principal de abastecimiento de agua en su hogar?,N,2,"11:13, 21:22, 41, 43, 51, 61, 96",12,"Fuera de la vivienda, pero dentro del edificio",
+4,HV202,¿Cuál es la fuente principal de abastecimiento de agua en su hogar?,N,2,"11:13, 21:22, 41, 43, 51, 61, 96",13,Pilón/Grifo público,
+4,HV202,¿Cuál es la fuente principal de abastecimiento de agua en su hogar?,N,2,"11:13, 21:22, 41, 43, 51, 61, 96",21,Pozo en la vivineda/patio/lote,
+4,HV202,¿Cuál es la fuente principal de abastecimiento de agua en su hogar?,N,2,"11:13, 21:22, 41, 43, 51, 61, 96",22,Pozo público,
+4,HV202,¿Cuál es la fuente principal de abastecimiento de agua en su hogar?,N,2,"11:13, 21:22, 41, 43, 51, 61, 96",41,Manantial (puquio),
+4,HV202,¿Cuál es la fuente principal de abastecimiento de agua en su hogar?,N,2,"11:13, 21:22, 41, 43, 51, 61, 96",43,Río/acequia/laguna,
+4,HV202,¿Cuál es la fuente principal de abastecimiento de agua en su hogar?,N,2,"11:13, 21:22, 41, 43, 51, 61, 96",51,Agua de lluvia,
+4,HV202,¿Cuál es la fuente principal de abastecimiento de agua en su hogar?,N,2,"11:13, 21:22, 41, 43, 51, 61, 96",61,Camión cisterna,
+4,HV202,¿Cuál es la fuente principal de abastecimiento de agua en su hogar?,N,2,"11:13, 21:22, 41, 43, 51, 61, 96",96,Otro,
+5,HV204,"¿Cuánto tiempo se demora en ir, recoger agua y volver?",N,3,"0:300, 996, 998",996,En las instalaciones,
+5,HV204,"¿Cuánto tiempo se demora en ir, recoger agua y volver?",N,3,"0:300, 996, 998",998,No sabe,
+6,HV205,¿Qué tipo de servicio higiénico tiene su hogar?,N,2,"11:12, 21:24, 31, 32, 96",11,Dentro de la vivienda,
+6,HV205,¿Qué tipo de servicio higiénico tiene su hogar?,N,2,"11:12, 21:24, 31, 32, 96",12,"Fuera de la vivienda, pero dentro del edificio",
+6,HV205,¿Qué tipo de servicio higiénico tiene su hogar?,N,2,"11:12, 21:24, 31, 32, 96",21,Letrina mejorada ventilada,
+6,HV205,¿Qué tipo de servicio higiénico tiene su hogar?,N,2,"11:12, 21:24, 31, 32, 96",22,Pozo séptico,
+6,HV205,¿Qué tipo de servicio higiénico tiene su hogar?,N,2,"11:12, 21:24, 31, 32, 96",23,Latrina (pozo ciego o negro),
+6,HV205,¿Qué tipo de servicio higiénico tiene su hogar?,N,2,"11:12, 21:24, 31, 32, 96",24,Latrina mejorada colgada/flotante,
+6,HV205,¿Qué tipo de servicio higiénico tiene su hogar?,N,2,"11:12, 21:24, 31, 32, 96",31,"Río, acequia o canal",
+6,HV205,¿Qué tipo de servicio higiénico tiene su hogar?,N,2,"11:12, 21:24, 31, 32, 96",32,Sin servicio (matorral/campo),
+6,HV205,¿Qué tipo de servicio higiénico tiene su hogar?,N,2,"11:12, 21:24, 31, 32, 96",96,Otro,
+7,HV206,¿Tiene electricidad en su hogar?,N,1,0:1,0,No,
+7,HV206,¿Tiene electricidad en su hogar?,N,1,0:1,1,Si,
+8,HV207,Su hogar ¿tiene radio?,N,1,0:1,0,No,
+8,HV207,Su hogar ¿tiene radio?,N,1,0:1,1,Si,
+9,HV208,Su hogar ¿tiene televisor?,N,1,0:1,0,No,
+9,HV208,Su hogar ¿tiene televisor?,N,1,0:1,1,Si,
+10,HV209,Su hogar ¿tiene refrigeradora /congeladora?,N,1,0:1,0,No,
+10,HV209,Su hogar ¿tiene refrigeradora /congeladora?,N,1,0:1,1,Si,
+11,HV210,Algún miembro de su hogar ¿tiene bicleta/triciclo?,N,1,0:1,0,No,
+11,HV210,Algún miembro de su hogar ¿tiene bicleta/triciclo?,N,1,0:1,1,Si,
+12,HV211,Algún miembro de su hogar ¿tiene motocileta/ motokar?,N,1,0:1,0,No,
+12,HV211,Algún miembro de su hogar ¿tiene motocileta/ motokar?,N,1,0:1,1,Si,
+13,HV212,Algún miembro de su hogar ¿tiene carro o camión?,N,1,0:1,0,No,
+13,HV212,Algún miembro de su hogar ¿tiene carro o camión?,N,1,0:1,1,Si,
+14,HV213,Material predominante del piso de la vivienda,N,2,"11, 21, 31:34, 96",11,Tierra/arena,
+14,HV213,Material predominante del piso de la vivienda,N,2,"11, 21, 31:34, 96",21,Madera,
+14,HV213,Material predominante del piso de la vivienda,N,2,"11, 21, 31:34, 96",31,Parquet o madera pulida,
+14,HV213,Material predominante del piso de la vivienda,N,2,"11, 21, 31:34, 96",32,"Láminas asfálticas, vinílicos o similares",
+14,HV213,Material predominante del piso de la vivienda,N,2,"11, 21, 31:34, 96",33,"Losetas, terrazos o similares",
+14,HV213,Material predominante del piso de la vivienda,N,2,"11, 21, 31:34, 96",34,Cemento/ladrillo,
+14,HV213,Material predominante del piso de la vivienda,N,2,"11, 21, 31:34, 96",96,Otro,
+15,HV214,Material predominante de las paredes exteriores de la vivienda,N,2,"11, 21, 31:34, 96",11,Tablones/Madera,
+15,HV214,Material predominante de las paredes exteriores de la vivienda,N,2,"11, 21, 31:34, 96",12,Estera,
+15,HV214,Material predominante de las paredes exteriores de la vivienda,N,2,"11, 21, 31:34, 96",13,Caña/Bambu/Pona/Palma/Troncos/Tabique,
+15,HV214,Material predominante de las paredes exteriores de la vivienda,N,2,"11, 21, 31:34, 96",21,Adobe o tapia,
+15,HV214,Material predominante de las paredes exteriores de la vivienda,N,2,"11, 21, 31:34, 96",22,Quincha (caña con barro),
+15,HV214,Material predominante de las paredes exteriores de la vivienda,N,2,"11, 21, 31:34, 96",23,Piedra con barro,
+15,HV214,Material predominante de las paredes exteriores de la vivienda,N,2,"11, 21, 31:34, 96",24,Cartón,
+15,HV214,Material predominante de las paredes exteriores de la vivienda,N,2,"11, 21, 31:34, 96",31,Ladrillo o bloques de cemento,
+15,HV214,Material predominante de las paredes exteriores de la vivienda,N,2,"11, 21, 31:34, 96",32,Piedra o sillar con cal o cemento,
+15,HV214,Material predominante de las paredes exteriores de la vivienda,N,2,"11, 21, 31:34, 96",33,Tripley,
+15,HV214,Material predominante de las paredes exteriores de la vivienda,N,2,"11, 21, 31:34, 96",41,Sin paredes,
+15,HV214,Material predominante de las paredes exteriores de la vivienda,N,2,"11, 21, 31:34, 96",96,Otro,
+16,HV215,Material predominante del techo de la vivienda,N,2,"11:12, 21:22, 31:34, 41, 96",11,"Paja, hojas de palmera etc.",
+16,HV215,Material predominante del techo de la vivienda,N,2,"11:12, 21:22, 31:34, 41, 96",12,Estera,
+16,HV215,Material predominante del techo de la vivienda,N,2,"11:12, 21:22, 31:34, 41, 96",21,Caña o estera en torta de barro,
+16,HV215,Material predominante del techo de la vivienda,N,2,"11:12, 21:22, 31:34, 41, 96",22,Cartón,
+16,HV215,Material predominante del techo de la vivienda,N,2,"11:12, 21:22, 31:34, 41, 96",31,Concreto armado,
+16,HV215,Material predominante del techo de la vivienda,N,2,"11:12, 21:22, 31:34, 41, 96",32,Madera,
+16,HV215,Material predominante del techo de la vivienda,N,2,"11:12, 21:22, 31:34, 41, 96",33,Tejas,
+16,HV215,Material predominante del techo de la vivienda,N,2,"11:12, 21:22, 31:34, 41, 96",34,"Plancha de calamina, fibra de cemento o similares",
+16,HV215,Material predominante del techo de la vivienda,N,2,"11:12, 21:22, 31:34, 41, 96",41,Sin techo,
+16,HV215,Material predominante del techo de la vivienda,N,2,"11:12, 21:22, 31:34, 41, 96",96,Otro,
+17,HV216,Número de habitaciones utilizadas para dormir,N,2,0:15,,,
+18,HV217,Estructura de relaciones en el hogar (composición de los hogares),N,1,1:5,1,Un adulto,
+18,HV217,Estructura de relaciones en el hogar (composición de los hogares),N,1,1:5,2,"Dos adultos, diferente sexo",
+18,HV217,Estructura de relaciones en el hogar (composición de los hogares),N,1,1:5,3,"Dos adultos, del mismo sexo",
+18,HV217,Estructura de relaciones en el hogar (composición de los hogares),N,1,1:5,4,"Tres o más adultos con algún grado de
+parentesco",
+18,HV217,Estructura de relaciones en el hogar (composición de los hogares),N,1,1:5,5,Adultos sin grado de parentesco,
+19,HV218,Número de orden del Jefe del hogar,N,1,1,,,
+20,HV219,Sexo del jefe de hogar,N,1,1:2,1,Masculino,
+20,HV219,Sexo del jefe de hogar,N,1,1:2,2,Femenino,
+21,HV220,Edad del jefe de hogar,N,2,12:98,,,
+22,HV221,Su hogar ¿tiene teléfono?,N,1,0:1,0,No,
+22,HV221,Su hogar ¿tiene teléfono?,N,1,0:1,1,Si,
+23,HV225,¿El servicio higiénico es compartido con otros hogares?,N,1,0:1,0,No,
+23,HV225,¿El servicio higiénico es compartido con otros hogares?,N,1,0:1,1,Si,
+24,HV226,¿Cuál es el combustible que utilizan más frecuentemente en su hogar para cocinar?,N,2,"1:11, 95, 96",1,Electricidad,
+24,HV226,¿Cuál es el combustible que utilizan más frecuentemente en su hogar para cocinar?,N,2,"1:11, 95, 96",2,GLP,
+24,HV226,¿Cuál es el combustible que utilizan más frecuentemente en su hogar para cocinar?,N,2,"1:11, 95, 96",3,Gas natural,
+24,HV226,¿Cuál es el combustible que utilizan más frecuentemente en su hogar para cocinar?,N,2,"1:11, 95, 96",5,Kerosene,
+24,HV226,¿Cuál es el combustible que utilizan más frecuentemente en su hogar para cocinar?,N,2,"1:11, 95, 96",6,Carbón vegetal,
+24,HV226,¿Cuál es el combustible que utilizan más frecuentemente en su hogar para cocinar?,N,2,"1:11, 95, 96",7,Carbón mineral,
+24,HV226,¿Cuál es el combustible que utilizan más frecuentemente en su hogar para cocinar?,N,2,"1:11, 95, 96",8,Leña,
+24,HV226,¿Cuál es el combustible que utilizan más frecuentemente en su hogar para cocinar?,N,2,"1:11, 95, 96",9,Caña/Arbustos secos,
+24,HV226,¿Cuál es el combustible que utilizan más frecuentemente en su hogar para cocinar?,N,2,"1:11, 95, 96",10,Residuos agrícolas,
+24,HV226,¿Cuál es el combustible que utilizan más frecuentemente en su hogar para cocinar?,N,2,"1:11, 95, 96",11,Bosta,
+24,HV226,¿Cuál es el combustible que utilizan más frecuentemente en su hogar para cocinar?,N,2,"1:11, 95, 96",95,No cocina,
+24,HV226,¿Cuál es el combustible que utilizan más frecuentemente en su hogar para cocinar?,N,2,"1:11, 95, 96",96,Otro,
+25,HV227,Tiene un mosquitero para dormir,N,1,,,,VALOR NULL
+26,HV228,Los niños menores de 5 años durmieron bajo mosquiteros anoche,N,1,,,,VALOR NULL
+27,HV234,Prueba de yodo para sal,N,3,"0, 7, 15, 30, 994, 995",0,0 PPM (sin yodo),
+27,HV234,Prueba de yodo para sal,N,3,"0, 7, 15, 30, 994, 995",7,7 PPM,
+27,HV234,Prueba de yodo para sal,N,3,"0, 7, 15, 30, 994, 995",15,15 PPM,
+27,HV234,Prueba de yodo para sal,N,3,"0, 7, 15, 30, 994, 995",30,30 PPM,
+27,HV234,Prueba de yodo para sal,N,3,"0, 7, 15, 30, 994, 995",994,No se realizó la prueb,
+27,HV234,Prueba de yodo para sal,N,3,"0, 7, 15, 30, 994, 995",995,No hay sal en el hoga,
+28,HV235,Ubicación de la fuente de agua,N,1,,,,VALOR NULL
+29,HV236,Persona que a recoger agua para su hogar,N,1,"1:4, 6",1,Mujer adulta,
+29,HV236,Persona que a recoger agua para su hogar,N,1,"1:4, 6",2,Hombre adulto,
+29,HV236,Persona que a recoger agua para su hogar,N,1,"1:4, 6",3,Niño menor de 15 años,
+29,HV236,Persona que a recoger agua para su hogar,N,1,"1:4, 6",4,Niños menores de 15 años,
+29,HV236,Persona que a recoger agua para su hogar,N,1,"1:4, 6",6,Otro,
+30,HV237,Hecho algo al agua para hacerla segura para beber,N,1,0:1,0,No,
+30,HV237,Hecho algo al agua para hacerla segura para beber,N,1,0:1,1,Si,
+31,HV237A,El agua usualmente es tratada por: hervida,N,1,0:1,0,No,
+31,HV237A,El agua usualmente es tratada por: hervida,N,1,0:1,1,Si,
+32,HV237B,El agua usualmente es tratada por: añadir lejía o cloro,N,1,0:1,0,No,
+32,HV237B,El agua usualmente es tratada por: añadir lejía o cloro,N,1,0:1,1,Si,
+33,HV237C,El agua usualmente es tratada por: filtro a través de un paño,N,1,0:1,0,No,
+33,HV237C,El agua usualmente es tratada por: filtro a través de un paño,N,1,0:1,1,Si,
+34,HV237D,El agua usualmente es tratada por: uso de agua filtrada,N,1,0:1,0,No,
+34,HV237D,El agua usualmente es tratada por: uso de agua filtrada,N,1,0:1,1,Si,
+35,HV237E,El agua usualmente es tratada por: desinfección solar,N,1,0:1,0,No,
+35,HV237E,El agua usualmente es tratada por: desinfección solar,N,1,0:1,1,Si,
+36,HV237F,El agua usualmente es tratada por: dejar reposar y asentarse,N,1,0:1,0,No,
+36,HV237F,El agua usualmente es tratada por: dejar reposar y asentarse,N,1,0:1,1,Si,
+37,HV237G,El agua usualmente es tratada por: CS - agua embotellada,N,1,0:1,0,No,
+37,HV237G,El agua usualmente es tratada por: CS - agua embotellada,N,1,0:1,1,Si,
+42,HV237X,El agua usualmente es tratada por: otros,N,1,0:1,0,No,
+42,HV237X,El agua usualmente es tratada por: otros,N,1,0:1,1,Si,
+43,HV237Z,El agua usualmente es tratada por: no sabe,N,1,0:1,0,No,VALOR NULL
+43,HV237Z,El agua usualmente es tratada por: no sabe,N,1,0:1,1,Si,VALOR NULL
+44,HV238,Número de hogares que comparten el baño,N,2,,95,10 o más hogares,VALOR NULL
+44,HV238,Número de hogares que comparten el baño,N,2,,98,No sabe,VALOR NULL
+45,HV239,Comida cocinada en estufa o fuego abierto,N,1,"1:3, 6",1,Abran fuego,VALOR NULL
+45,HV239,Comida cocinada en estufa o fuego abierto,N,1,"1:3, 6",2,Estufa abierta,VALOR NULL
+45,HV239,Comida cocinada en estufa o fuego abierto,N,1,"1:3, 6",3,Estufa cerrada con chimenea,VALOR NULL
+45,HV239,Comida cocinada en estufa o fuego abierto,N,1,"1:3, 6",6,Otro,VALOR NULL
+46,HV240,El hogar tiene una chimenea o una campana,N,1,0:2,0,Ni chimenea ni campana,VALOR NULL
+46,HV240,El hogar tiene una chimenea o una campana,N,1,0:2,1,Tubo de lámpara,VALOR NULL
+46,HV240,El hogar tiene una chimenea o una campana,N,1,0:2,2,capucha,VALOR NULL
+47,HV241,"Comida preparada en la casa, en edificio separado o al aire libre",N,1,"1:3, 6",1,En la casa,VALOR NULL
+47,HV241,"Comida preparada en la casa, en edificio separado o al aire libre",N,1,"1:3, 6",2,En un edificio separado,VALOR NULL
+47,HV241,"Comida preparada en la casa, en edificio separado o al aire libre",N,1,"1:3, 6",3,Al aire libre,VALOR NULL
+47,HV241,"Comida preparada en la casa, en edificio separado o al aire libre",N,1,"1:3, 6",6,Otro,VALOR NULL
+48,HV242,¿Utilizan un cuarto especialmente para cocinar?,N,1,0:1,0,No,
+48,HV242,¿Utilizan un cuarto especialmente para cocinar?,N,1,0:1,1,Si,
+49,HV243A,¿Tiene un teléfono móvil (celular)?,N,1,0:1,0,No,
+49,HV243A,¿Tiene un teléfono móvil (celular)?,N,1,0:1,1,Si,
+50,HV243B,Tiene un reloj,N,1,0:1,0,No,VALOR NULL
+50,HV243B,Tiene un reloj,N,1,0:1,1,Si,VALOR NULL
+51,HV243C,¿Tiene un carreta jalada por animales?,N,1,0:1,0,No,
+51,HV243C,¿Tiene un carreta jalada por animales?,N,1,0:1,1,Si,
+52,HV243D,¿Tiene un bote a motor?,N,1,0:1,0,No,
+52,HV243D,¿Tiene un bote a motor?,N,1,0:1,1,Si,
+53,HV244,¿Algún miembro del hogar es dueño de tierras agrícolas?,N,1,0:1,0,No,
+53,HV244,¿Algún miembro del hogar es dueño de tierras agrícolas?,N,1,0:1,1,Si,
+54,HV245,¿Cuántas hectáreas de tierras agrícolas le pertenecen?,N,2,"0:96, 98",95,Más de 95,
+54,HV245,¿Cuántas hectáreas de tierras agrícolas le pertenecen?,N,2,"0:96, 98",96,Superficie que no sea hectárea,
+54,HV245,¿Cuántas hectáreas de tierras agrícolas le pertenecen?,N,2,"0:96, 98",98,No sabe,
+55,HV246,"¿Algún miembro del hogar es dueño de ganadería, rebaños o animales de granja?",N,1,0:1,0,No,
+55,HV246,"¿Algún miembro del hogar es dueño de ganadería, rebaños o animales de granja?",N,1,0:1,1,Si,
+56,HV246A,Cantidad de: ganado,N,2,"0:95, 98",0,Ninguna,
+56,HV246A,Cantidad de: ganado,N,2,"0:95, 98",95,Más de 95,
+56,HV246A,Cantidad de: ganado,N,2,"0:95, 98",98,Desconocido,
+57,HV246B,"Cantidad de: vacas, toros",N,2,"0:95, 98",0,Ninguna,VALOR NULL
+57,HV246B,"Cantidad de: vacas, toros",N,2,"0:95, 98",95,Más de 95,VALOR NULL
+57,HV246B,"Cantidad de: vacas, toros",N,2,"0:95, 98",98,Desconocido,VALOR NULL
+58,HV246C,"Cantidad de: caballos, burros, mulas",N,2,"0:95, 98",0,Ninguna,
+58,HV246C,"Cantidad de: caballos, burros, mulas",N,2,"0:95, 98",95,Más de 95,
+58,HV246C,"Cantidad de: caballos, burros, mulas",N,2,"0:95, 98",98,Desconocido,
+59,HV246D,Cantidad de: cabras,N,2,"0:95, 98",0,Ninguna,
+59,HV246D,Cantidad de: cabras,N,2,"0:95, 98",95,Más de 95,
+59,HV246D,Cantidad de: cabras,N,2,"0:95, 98",98,Desconocido,
+60,HV246E,Cantidad de: ovejas,N,2,"0:95, 98",0,Ninguna,
+60,HV246E,Cantidad de: ovejas,N,2,"0:95, 98",95,Más de 95,
+60,HV246E,Cantidad de: ovejas,N,2,"0:95, 98",98,Desconocido,
+61,HV246F,Cantidad de: pollos,N,2,"0:95, 98",0,Ninguna,VALOR NULL
+61,HV246F,Cantidad de: pollos,N,2,"0:95, 98",95,Más de 95,VALOR NULL
+61,HV246F,Cantidad de: pollos,N,2,"0:95, 98",98,Desconocido,VALOR NULL
+62,HV246G,Cantidad de: aves de corral,N,2,"0:95, 98",0,Ninguna,
+62,HV246G,Cantidad de: aves de corral,N,2,"0:95, 98",95,Más de 95,
+62,HV246G,Cantidad de: aves de corral,N,2,"0:95, 98",98,Desconocido,
+63,HV246H,Cantidad de: cuyes/conejos,N,2,"0:95, 98",0,Ninguna,
+63,HV246H,Cantidad de: cuyes/conejos,N,2,"0:95, 98",95,Más de 95,
+63,HV246H,Cantidad de: cuyes/conejos,N,2,"0:95, 98",98,Desconocido,
+64,HV246I,Cantidad de: cerdos,N,2,"0:95, 98",0,Ninguna,
+64,HV246I,Cantidad de: cerdos,N,2,"0:95, 98",95,Más de 95,
+64,HV246I,Cantidad de: cerdos,N,2,"0:95, 98",98,Desconocido,
+65,HV246J,Cantidad de: otros,N,2,"0:95, 98",0,Ninguna,
+65,HV246J,Cantidad de: otros,N,2,"0:95, 98",95,Más de 95,
+65,HV246J,Cantidad de: otros,N,2,"0:95, 98",98,Desconocido,
+66,HV246K,CS propio,N,2,"0:95, 98",0,Ninguna,VALOR NULL
+66,HV246K,CS propio,N,2,"0:95, 98",95,Más de 95,VALOR NULL
+66,HV246K,CS propio,N,2,"0:95, 98",98,Desconocido,VALOR NULL
+67,HV247,Posee una cuenta bancaria,N,1,0:1,0,No,VALOR NULL
+67,HV247,Posee una cuenta bancaria,N,1,0:1,1,Si,VALOR NULL
+68,HV248,Número de personas enfermas 18-59,N,2,,,,VALOR NULL
+69,HV249,Miembro de la HH fallecido los últimos 12 meses,N,1,"0:1, 8",0,No,VALOR NULL
+69,HV249,Miembro de la HH fallecido los últimos 12 meses,N,1,"0:1, 8",1,Si,VALOR NULL
+69,HV249,Miembro de la HH fallecido los últimos 12 meses,N,1,"0:1, 8",8,No sabe,VALOR NULL
+70,HV250,Número de miembros que murieron en los últimos 12 meses,N,2,,,,VALOR NULL
+71,HV251,Número de huérfanos y niños vulnerables,N,2,,,,VALOR NULL
+72,HML1,Número de mosquiteros,N,2,,,,VALOR NULL
+73,HML1A,Número de mosquiteros con información específica,N,1,,,,VALOR NULL
+74,HML2,Número de niños menores de edad en la noche anterior,N,2,,,,VALOR NULL
+75,SHVER,Versión del cuestionario,N,1,,,,VALOR 0
+76,SHREGION,Región natural,N,2,1:4,1,Lima metropolitana,
+76,SHREGION,Región natural,N,2,1:4,2,Resto Costa,
+76,SHREGION,Región natural,N,2,1:4,3,Sierra,
+76,SHREGION,Región natural,N,2,1:4,4,Selva,
+77,SHSEMES,Semestre,N,2,,,,
+78,SHPROVIN,Provincia,N,2,,,,
+79,SHDISTRI,Distrito,N,2,,,,
+80,SHTOTH,Total de hogares en la vivienda,N,2,,,,
+81,SHEQUIPO,Equipo de trabajo de campo,N,2,,,,
+82,SH42,El abastecimiento de agua para beber está disponible todo el día,N,1,0:1,0,No,
+82,SH42,El abastecimiento de agua para beber está disponible todo el día,N,1,0:1,1,Si,
+83,SH43,Las últimas 2 semanas fueron interrumpidas por un día o más,N,1,0:1,0,No,VALOR NULL
+83,SH43,Las últimas 2 semanas fueron interrumpidas por un día o más,N,1,0:1,1,Si,VALOR NULL
+84,SH48,¿Conserva en un envase o recipiente el agua para beber?,N,1,0:1,0,No,
+84,SH48,¿Conserva en un envase o recipiente el agua para beber?,N,1,0:1,1,Si,
+85,SH49,Tipo de envase o recipiente,N,2,"1:4, 96",1,"Olla, tetera",
+85,SH49,Tipo de envase o recipiente,N,2,"1:4, 96",2,Balde,
+85,SH49,Tipo de envase o recipiente,N,2,"1:4, 96",3,Jarra,
+85,SH49,Tipo de envase o recipiente,N,2,"1:4, 96",4,Bidón,
+85,SH49,Tipo de envase o recipiente,N,2,"1:4, 96",96,Otro,
+86,SH50,¿Lo usa con tapa?,N,1,0:1,0,No,
+86,SH50,¿Lo usa con tapa?,N,1,0:1,1,Si,
+87,SH51,Pago por el agua?,N,1,"0:1, 8",0,No,VALOR NULL
+87,SH51,Pago por el agua?,N,1,"0:1, 8",1,Si,VALOR NULL
+87,SH51,Pago por el agua?,N,1,"0:1, 8",8,No sabe,VALOR NULL
+88,SH52,Institución de pago de agua,N,1,1:6,1,Agencia pública / empresa,VALOR NULL
+88,SH52,Institución de pago de agua,N,1,1:6,2,Agencia privada / empresa,VALOR NULL
+88,SH52,Institución de pago de agua,N,1,1:6,3,Otras provisiones privadas de agua,VALOR NULL
+88,SH52,Institución de pago de agua,N,1,1:6,4,JASS,VALOR NULL
+88,SH52,Institución de pago de agua,N,1,1:6,6,Otro,VALOR NULL
+89,SH56,Con qué frecuencia se limpia el baño o la letrina?,N,1,1:6,1,Varias veces durante el,VALOR NULL
+89,SH56,Con qué frecuencia se limpia el baño o la letrina?,N,1,1:6,2,Diariamente,VALOR NULL
+89,SH56,Con qué frecuencia se limpia el baño o la letrina?,N,1,1:6,3,Varias veces durante el,VALOR NULL
+89,SH56,Con qué frecuencia se limpia el baño o la letrina?,N,1,1:6,4,Semanal,VALOR NULL
+89,SH56,Con qué frecuencia se limpia el baño o la letrina?,N,1,1:6,5,8 días,VALOR NULL
+89,SH56,Con qué frecuencia se limpia el baño o la letrina?,N,1,1:6,6,Nunca,VALOR NULL
+90,SH58,Dónde tira la basura?,N,2,"11:15, 21:24, 31, 41:44, 51, 61, 71, 81, 96,
+98",11,Elegido en casa por el gobierno,VALOR NULL
+90,SH58,Dónde tira la basura?,N,2,"11:15, 21:24, 31, 41:44, 51, 61, 71, 81, 96,
+98",12,Elegido en el hogar por municipio,VALOR NULL
+90,SH58,Dónde tira la basura?,N,2,"11:15, 21:24, 31, 41:44, 51, 61, 71, 81, 96,
+98",13,Elegido en casa por la comunidad,VALOR NULL
+90,SH58,Dónde tira la basura?,N,2,"11:15, 21:24, 31, 41:44, 51, 61, 71, 81, 96,
+98",14,Elegido en casa por la empresa privada,VALOR NULL
+90,SH58,Dónde tira la basura?,N,2,"11:15, 21:24, 31, 41:44, 51, 61, 71, 81, 96,
+98",15,Elegido en casa por Otro,VALOR NULL
+90,SH58,Dónde tira la basura?,N,2,"11:15, 21:24, 31, 41:44, 51, 61, 71, 81, 96,
+98",21,Tirar en contenedores del gobierno,VALOR NULL
+90,SH58,Dónde tira la basura?,N,2,"11:15, 21:24, 31, 41:44, 51, 61, 71, 81, 96,
+98",22,Lanzar en el municipio containe,VALOR NULL
+90,SH58,Dónde tira la basura?,N,2,"11:15, 21:24, 31, 41:44, 51, 61, 71, 81, 96,
+98",23,Tirar en contenedores comunitarios,VALOR NULL
+90,SH58,Dónde tira la basura?,N,2,"11:15, 21:24, 31, 41:44, 51, 61, 71, 81, 96,
+98",24,Tirar en compañía privada,VALOR NULL
+90,SH58,Dónde tira la basura?,N,2,"11:15, 21:24, 31, 41:44, 51, 61, 71, 81, 96,
+98",31,Lanzar en un espacio abierto,VALOR NULL
+90,SH58,Dónde tira la basura?,N,2,"11:15, 21:24, 31, 41:44, 51, 61, 71, 81, 96,
+98",41,Tirar en un lugar lejano,VALOR NULL
+90,SH58,Dónde tira la basura?,N,2,"11:15, 21:24, 31, 41:44, 51, 61, 71, 81, 96,
+98",42,Tirar en las calles,VALOR NULL
+90,SH58,Dónde tira la basura?,N,2,"11:15, 21:24, 31, 41:44, 51, 61, 71, 81, 96,
+98",43,Tirar en yarda / parcela,VALOR NULL
+90,SH58,Dónde tira la basura?,N,2,"11:15, 21:24, 31, 41:44, 51, 61, 71, 81, 96,
+98",44,Río,VALOR NULL
+90,SH58,Dónde tira la basura?,N,2,"11:15, 21:24, 31, 41:44, 51, 61, 71, 81, 96,
+98",51,Quemar,VALOR NULL
+90,SH58,Dónde tira la basura?,N,2,"11:15, 21:24, 31, 41:44, 51, 61, 71, 81, 96,
+98",61,Enterrar,VALOR NULL
+90,SH58,Dónde tira la basura?,N,2,"11:15, 21:24, 31, 41:44, 51, 61, 71, 81, 96,
+98",71,Hacer abono,VALOR NULL
+90,SH58,Dónde tira la basura?,N,2,"11:15, 21:24, 31, 41:44, 51, 61, 71, 81, 96,
+98",81,Uso para alimentar a los animales,VALOR NULL
+90,SH58,Dónde tira la basura?,N,2,"11:15, 21:24, 31, 41:44, 51, 61, 71, 81, 96,
+98",96,Otro,VALOR NULL
+90,SH58,Dónde tira la basura?,N,2,"11:15, 21:24, 31, 41:44, 51, 61, 71, 81, 96,
+98",98,No sabe,VALOR NULL
+91,SH59,Con qué frecuencia se recoge la basura?,N,2,1:6,1,Diariamente,VALOR NULL
+91,SH59,Con qué frecuencia se recoge la basura?,N,2,1:6,2,Varias veces durante la semana,VALOR NULL
+91,SH59,Con qué frecuencia se recoge la basura?,N,2,1:6,3,Semanal,VALOR NULL
+91,SH59,Con qué frecuencia se recoge la basura?,N,2,1:6,4,Cualquier otra semana,VALOR NULL
+91,SH59,Con qué frecuencia se recoge la basura?,N,2,1:6,5,Una vez al mes,VALOR NULL
+91,SH59,Con qué frecuencia se recoge la basura?,N,2,1:6,6,Tiempo irregular,VALOR NULL
+92,SH60,Antes de desechar la basura donde se almacena?,N,1,1:6,1,Contenedor / contenedor de la cubierta,VALOR NULL
+92,SH60,Antes de desechar la basura donde se almacena?,N,1,1:6,2,Descubrir receptivo / contener,VALOR NULL
+92,SH60,Antes de desechar la basura donde se almacena?,N,1,1:6,3,Bolsas de plástico,VALOR NULL
+92,SH60,Antes de desechar la basura donde se almacena?,N,1,1:6,4,Bolsas de papel,VALOR NULL
+92,SH60,Antes de desechar la basura donde se almacena?,N,1,1:6,5,No tiene destinatario,VALOR NULL
+92,SH60,Antes de desechar la basura donde se almacena?,N,1,1:6,6,Otro,VALOR NULL
+93,SH61A,¿Tiene sofá?,N,1,0:1,0,No,
+93,SH61A,¿Tiene sofá?,N,1,0:1,1,Si,
+94,SH61B,¿Tiene vitrina/aparador?,N,1,0:1,0,No,
+94,SH61B,¿Tiene vitrina/aparador?,N,1,0:1,1,Si,
+95,SH61C,¿Tiene repostero?,N,1,0:1,0,No,
+95,SH61C,¿Tiene repostero?,N,1,0:1,1,Si,
+96,SH61D,¿Tiene cómoda/ropero?,N,1,0:1,0,No,
+96,SH61D,¿Tiene cómoda/ropero?,N,1,0:1,1,Si,
+97,SH61E,¿Tiene reloj de pared?,N,1,0:1,0,No,
+97,SH61E,¿Tiene reloj de pared?,N,1,0:1,1,Si,
+98,SH61J,¿Tiene televisión por cable?,N,1,0:1,0,No,
+98,SH61J,¿Tiene televisión por cable?,N,1,0:1,1,Si,
+99,SH61K,¿Tiene licuadora?,N,1,0:1,0,No,
+99,SH61K,¿Tiene licuadora?,N,1,0:1,1,Si,
+100,SH61L,¿Tiene cocina de gas?,N,1,0:1,0,No,
+100,SH61L,¿Tiene cocina de gas?,N,1,0:1,1,Si,
+101,SH61M,¿Tiene cocina de kerosene?,N,1,0:1,0,No,
+101,SH61M,¿Tiene cocina de kerosene?,N,1,0:1,1,Si,
+102,SH61N,¿Tiene microondas?,N,1,0:1,0,No,
+102,SH61N,¿Tiene microondas?,N,1,0:1,1,Si,
+103,SH61O,¿Tiene lavadora?,N,1,0:1,0,No,
+103,SH61O,¿Tiene lavadora?,N,1,0:1,1,Si,
+104,SH61P,¿Tiene computadora?,N,1,0:1,0,No,
+104,SH61P,¿Tiene computadora?,N,1,0:1,1,Si,
+105,SH61Q,¿Tiene acceso a Internet en casa?,N,1,0:1,0,No,
+105,SH61Q,¿Tiene acceso a Internet en casa?,N,1,0:1,1,Si,
+106,SH61R,¿Tiene bomba de agua?,N,1,0:1,0,No,
+106,SH61R,¿Tiene bomba de agua?,N,1,0:1,1,Si,
+107,SH61S,¿Tiene generador de electricidad?,N,1,0:1,0,No,
+107,SH61S,¿Tiene generador de electricidad?,N,1,0:1,1,Si,
+108,SH63,¿Utiliza otro tipo de combustible para cocinar?,N,1,0:1,0,No,
+108,SH63,¿Utiliza otro tipo de combustible para cocinar?,N,1,0:1,1,Si,
+109,SH64,Otro tipo de combustible utilizado para cocinar,N,2,"1:11, 96",1,Electricidad,
+109,SH64,Otro tipo de combustible utilizado para cocinar,N,2,"1:11, 96",2,GLP,
+109,SH64,Otro tipo de combustible utilizado para cocinar,N,2,"1:11, 96",3,Gas natural,
+109,SH64,Otro tipo de combustible utilizado para cocinar,N,2,"1:11, 96",5,Kerosene,
+109,SH64,Otro tipo de combustible utilizado para cocinar,N,2,"1:11, 96",6,Carbón vegetal,
+109,SH64,Otro tipo de combustible utilizado para cocinar,N,2,"1:11, 96",7,Carbón mineral,
+109,SH64,Otro tipo de combustible utilizado para cocinar,N,2,"1:11, 96",8,Leña,
+109,SH64,Otro tipo de combustible utilizado para cocinar,N,2,"1:11, 96",9,Caña arbustos secos,
+109,SH64,Otro tipo de combustible utilizado para cocinar,N,2,"1:11, 96",10,Residuos agrícolas,
+109,SH64,Otro tipo de combustible utilizado para cocinar,N,2,"1:11, 96",11,Bosta,
+109,SH64,Otro tipo de combustible utilizado para cocinar,N,2,"1:11, 96",96,Otro,
+110,SH66,¿La cocina tiene una chimenea o un mecanismo para eliminar el humo?,N,1,0:1,0,No,
+110,SH66,¿La cocina tiene una chimenea o un mecanismo para eliminar el humo?,N,1,0:1,1,Si,
+111,SH69,El hogar compra combustible para cocinar?,N,1,0:1,0,No,VALOR NULL
+111,SH69,El hogar compra combustible para cocinar?,N,1,0:1,1,Si,VALOR NULL
+111,SH69,El hogar compra combustible para cocinar?,N,1,0:1,8,No sabe,VALOR NULL
+112,SH70,¿Qué tipo de alumbrado utiliza el hogar?,N,2,"1:6, 96",1,Electricidad,
+112,SH70,¿Qué tipo de alumbrado utiliza el hogar?,N,2,"1:6, 96",2,GLP,
+112,SH70,¿Qué tipo de alumbrado utiliza el hogar?,N,2,"1:6, 96",3,Gas natural,
+112,SH70,¿Qué tipo de alumbrado utiliza el hogar?,N,2,"1:6, 96",4,Kerosene,
+112,SH70,¿Qué tipo de alumbrado utiliza el hogar?,N,2,"1:6, 96",5,Velas,
+112,SH70,¿Qué tipo de alumbrado utiliza el hogar?,N,2,"1:6, 96",6,Batería,
+112,SH70,¿Qué tipo de alumbrado utiliza el hogar?,N,2,"1:6, 96",96,Otro,
+113,SH71,Número de habitaciones en el hogar,N,2,1:25,,,
+114,SH72,Número de habitaciones que usa para dormir,N,2,1:25,,,
+115,SXH73,Tiene una red (No 20011),N,1,0:1,0,No,VALOR NULL
+115,SXH73,Tiene una red (No 20011),N,1,0:1,1,Si,VALOR NULL
+116,SH76A,La vivienda tiene ventanas,N,1,"0:1, 8",0,No,
+116,SH76A,La vivienda tiene ventanas,N,1,"0:1, 8",1,Si,
+116,SH76A,La vivienda tiene ventanas,N,1,"0:1, 8",8,No sabe,
+117,SH76B,Ventanas con cristal,N,1,0:1,0,No,
+117,SH76B,Ventanas con cristal,N,1,0:1,1,Si,
+118,SH76C,Ventanas de madera,N,1,0:1,0,No,
+118,SH76C,Ventanas de madera,N,1,0:1,1,Si,
+119,SH76D,Ventanas con malla,N,1,0:1,0,No,
+119,SH76D,Ventanas con malla,N,1,0:1,1,Si,
+120,SH76E,Ventanas con cortinas/persianas,N,1,0:1,0,No,
+120,SH76E,Ventanas con cortinas/persianas,N,1,0:1,1,Si,
+121,SH77F,"Otro tipo de transporte (caballos, peque-peque, etc.)",N,1,0:1,0,No,
+121,SH77F,"Otro tipo de transporte (caballos, peque-peque, etc.)",N,1,0:1,1,Si,
+122,SH78,Algún miembro de su hogar es dueño de tierras agricolas,N,1,"0:1, 8",0,No,HV244
+122,SH78,Algún miembro de su hogar es dueño de tierras agricolas,N,1,"0:1, 8",1,Si,HV244
+122,SH78,Algún miembro de su hogar es dueño de tierras agricolas,N,1,"0:1, 8",8,No sabe,HV244
+123,SH79,Cuantas hectareas (1 decimal),N,4,"0:5010, 9996, 9998",0,Menos de 0.1 hectáreas,
+123,SH79,Cuantas hectareas (1 decimal),N,4,"0:5010, 9996, 9998",5010,501+,
+123,SH79,Cuantas hectareas (1 decimal),N,4,"0:5010, 9996, 9998",9996,Área dada en otras unidades,
+123,SH79,Cuantas hectareas (1 decimal),N,4,"0:5010, 9996, 9998",9998,No sabe,
+124,SH224,Prueba de Yodo,N,1,"1:5, 9",1,"Sin coloracion (valor ""0"")",
+124,SH224,Prueba de Yodo,N,1,"1:5, 9",2,"Coloracion tenue (valor ""7"")",
+124,SH224,Prueba de Yodo,N,1,"1:5, 9",3,"Coloracion azul o morado (valor ""15"")",
+124,SH224,Prueba de Yodo,N,1,"1:5, 9",4,"Coloracion morado oscuro (valor ""30"")",
+124,SH224,Prueba de Yodo,N,1,"1:5, 9",5,No hay sal en el hogar,
+124,SH224,Prueba de Yodo,N,1,"1:5, 9",9,No se pudo realizar la prueba,
+125,SH225U,Visualización de la bolsa de sal,N,1,1:2,1,Vista,
+125,SH225U,Visualización de la bolsa de sal,N,1,1:2,2,No vista,
+126,SH225,Marca de sal usada por el hogar,N,2,"1:36, 96, 98",1,Blanquita,
+126,SH225,Marca de sal usada por el hogar,N,2,"1:36, 96, 98",2,Brisal,
+126,SH225,Marca de sal usada por el hogar,N,2,"1:36, 96, 98",3,Chavelita,
+126,SH225,Marca de sal usada por el hogar,N,2,"1:36, 96, 98",4,Chinita,
+126,SH225,Marca de sal usada por el hogar,N,2,"1:36, 96, 98",5,Cholisal,
+126,SH225,Marca de sal usada por el hogar,N,2,"1:36, 96, 98",6,Costeñita,
+126,SH225,Marca de sal usada por el hogar,N,2,"1:36, 96, 98",7,ElChalandelNorte,
+126,SH225,Marca de sal usada por el hogar,N,2,"1:36, 96, 98",8,Elita,
+126,SH225,Marca de sal usada por el hogar,N,2,"1:36, 96, 98",9,Elitasal,
+126,SH225,Marca de sal usada por el hogar,N,2,"1:36, 96, 98",10,Emsal,
+126,SH225,Marca de sal usada por el hogar,N,2,"1:36, 96, 98",11,Esal,
+126,SH225,Marca de sal usada por el hogar,N,2,"1:36, 96, 98",12,Extrasal,
+126,SH225,Marca de sal usada por el hogar,N,2,"1:36, 96, 98",13,Finita,
+126,SH225,Marca de sal usada por el hogar,N,2,"1:36, 96, 98",14,LaCocinera,
+126,SH225,Marca de sal usada por el hogar,N,2,"1:36, 96, 98",15,Liberteña,
+126,SH225,Marca de sal usada por el hogar,N,2,"1:36, 96, 98",16,Marina,
+126,SH225,Marca de sal usada por el hogar,N,2,"1:36, 96, 98",17,Marisal,
+126,SH225,Marca de sal usada por el hogar,N,2,"1:36, 96, 98",18,Marsal,
+126,SH225,Marca de sal usada por el hogar,N,2,"1:36, 96, 98",19,Mipurita,
+126,SH225,Marca de sal usada por el hogar,N,2,"1:36, 96, 98",20,Norsal,
+126,SH225,Marca de sal usada por el hogar,N,2,"1:36, 96, 98",21,Norteño,
+126,SH225,Marca de sal usada por el hogar,N,2,"1:36, 96, 98",22,Premium,
+126,SH225,Marca de sal usada por el hogar,N,2,"1:36, 96, 98",23,Prodesmi,
+126,SH225,Marca de sal usada por el hogar,N,2,"1:36, 96, 98",24,Purasal,
+126,SH225,Marca de sal usada por el hogar,N,2,"1:36, 96, 98",25,Ricanorteñita,
+126,SH225,Marca de sal usada por el hogar,N,2,"1:36, 96, 98",26,Sabrosita,
+126,SH225,Marca de sal usada por el hogar,N,2,"1:36, 96, 98",29,SalerinNorteño,
+126,SH225,Marca de sal usada por el hogar,N,2,"1:36, 96, 98",30,SaliSal,
+126,SH225,Marca de sal usada por el hogar,N,2,"1:36, 96, 98",31,Salimar,
+126,SH225,Marca de sal usada por el hogar,N,2,"1:36, 96, 98",32,Salina,
+126,SH225,Marca de sal usada por el hogar,N,2,"1:36, 96, 98",33,Supersaladita,
+126,SH225,Marca de sal usada por el hogar,N,2,"1:36, 96, 98",34,Suprema,
+126,SH225,Marca de sal usada por el hogar,N,2,"1:36, 96, 98",35,Varsal,
+126,SH225,Marca de sal usada por el hogar,N,2,"1:36, 96, 98",36,Viva,
+126,SH225,Marca de sal usada por el hogar,N,2,"1:36, 96, 98",96,Otros,
+126,SH225,Marca de sal usada por el hogar,N,2,"1:36, 96, 98",98,No sabe,
+127,SH227,Prueba de cloro,N,1,"1:5, 9",1,Mayor o Igual a 0.5 mg/Lt.,
+127,SH227,Prueba de cloro,N,1,"1:5, 9",2,De 0.1 mg/Lt. A menos de 0.5 mg/Lt.,
+127,SH227,Prueba de cloro,N,1,"1:5, 9",3,0.0 mg/Lt.,
+127,SH227,Prueba de cloro,N,1,"1:5, 9",4,"La toman tal como viene del: Rio, Acequia, Pozo, e",
+127,SH227,Prueba de cloro,N,1,"1:5, 9",5,Toman agua embotellada,
+127,SH227,Prueba de cloro,N,1,"1:5, 9",9,No se pudo realizar la Prueba,
+128,QH227A,La muestra fue tomada por:,N,1,1:2,1,El funcionario de la encuesta,
+128,QH227A,La muestra fue tomada por:,N,1,1:2,2,El informante,
+129,QH227B,La nuestra del agua se extrajo del:,N,1,1:7,1,Grifo o caño,
+129,QH227B,La nuestra del agua se extrajo del:,N,1,1:7,2,Cilindro de metal,
+129,QH227B,La nuestra del agua se extrajo del:,N,1,1:7,3,Balde o batea de plástico,
+129,QH227B,La nuestra del agua se extrajo del:,N,1,1:7,4,Tanque (sin filtro),
+129,QH227B,La nuestra del agua se extrajo del:,N,1,1:7,5,Tanque (con filtro),
+129,QH227B,La nuestra del agua se extrajo del:,N,1,1:7,7,Otro,
+130,HV270,Índice de riqueza,N,8,1:5,1,Los más pobres,
+130,HV270,Índice de riqueza,N,8,1:5,2,Pobre,
+130,HV270,Índice de riqueza,N,8,1:5,3,Medio,
+130,HV270,Índice de riqueza,N,8,1:5,4,Rico,
+130,HV270,Índice de riqueza,N,8,1:5,5,Más rico,
+131,HV271,Factor de puntuación del índice de riqueza (5 decimales),N,8,,,,
