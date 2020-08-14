@@ -1,0 +1,12 @@
+Nº,VARIABLE,DESCRIPCIÓN DE LAS VARIABLES,TIPO DE CARÁCTER,LONGITUD,RANGO DE VARIACIÓN,VALORES,DESCRIPCIÓN DE LAS ALTERNATIVAS,OBS
+1,ID1,Año,N,4,,,,
+2,HHID,Identificacion Cuestionario del Hogar,AN,15,,,,
+3,QHCLUSTER,Conglomerado,N,4,1:3175,,,
+4,QHNUMBER,Vivienda seleccionada,N,3,,,,
+5,QHHOME,Hogar seleccionado,N,2,1:5,,,
+6,PS104_1A,Hace cuanto tiempo es beneficiario: Años,N,2,,98,No sabe,
+7,PS104_1M,Hace cuanto tiempo es beneficiario: Meses,N,2,,98,No sabe,
+8,PS104_1S,Alguien más es beneficiario,N,1,1:2,1,Si,
+8,PS104_1S,Alguien más es beneficiario,N,1,1:2,2,No,
+9,PS5,Número de Orden,N,1,,,,
+10,HVIDX,Número de Orden en el Hogar,N,2,,,,

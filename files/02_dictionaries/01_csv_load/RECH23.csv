@@ -133,6 +133,14 @@ parentesco",
 36,HV237F,El agua usualmente es tratada por: dejar reposar y asentarse,N,1,0:1,1,Si,
 37,HV237G,El agua usualmente es tratada por: CS - agua embotellada,N,1,0:1,0,No,
 37,HV237G,El agua usualmente es tratada por: CS - agua embotellada,N,1,0:1,1,Si,
+38,HV237H,El agua usualmente es tratada por: CS,N,1,0:1,0,No,VALOR NULL
+38,HV237H,El agua usualmente es tratada por: CS,N,1,0:1,1,Si,VALOR NULL
+39,HV237I,El agua usualmente es tratada por: CS,N,1,0:1,0,No,VALOR NULL
+39,HV237I,El agua usualmente es tratada por: CS,N,1,0:1,1,Si,VALOR NULL
+40,HV237J,El agua usualmente es tratada por: CS,N,1,0:1,0,No,VALOR NULL
+40,HV237J,El agua usualmente es tratada por: CS,N,1,0:1,1,Si,VALOR NULL
+41,HV237K,El agua usualmente es tratada por: CS,N,1,0:1,0,No,VALOR NULL
+41,HV237K,El agua usualmente es tratada por: CS,N,1,0:1,1,Si,VALOR NULL
 42,HV237X,El agua usualmente es tratada por: otros,N,1,0:1,0,No,
 42,HV237X,El agua usualmente es tratada por: otros,N,1,0:1,1,Si,
 43,HV237Z,El agua usualmente es tratada por: no sabe,N,1,0:1,0,No,VALOR NULL
