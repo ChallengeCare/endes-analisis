@@ -1,0 +1,45 @@
+"INFORMACIÓN SACADA DEL POWER POINT BASE"
+text/background -dark 1: e36f1e
+text/background -light1: ffffff
+text/background -dark 2: e36f1e
+text/background -light2: f3b223
+Accent 1: e36f1e
+Accent 2: f3b223
+Accent 3: aa182c
+Accent 4: 68813c
+Accent 5: 510c76
+Accent 6: 004987
+Hyperlink: e36f1e
+followed Hyperlink: e36f1e
+
+"POR CONFIRMAR"
+Sentiment colors:
+Positive: 004986
+Negative: a9182c
+Neutral: 68803c
+
+-----------"SACADAS DE LA PÁGINA WEB"--------
+
+PRIMARY PALETTE
+primary color, CARE orange: E36F1E
+secondary color, indigo: 1C1D30
+tertiary color, yellow: F4B223
+
+NEUTRAL PALETTE
+black: 090015
+grays: F9F6F4 , F9F6F4 , B0B3B2, 5A5B5D
+
+ACCENT PALETTE: DARK
+(4 colors: one for each pillar association)
+Disaster Response, red: AA182C
+Food and Nutrition, green: 68813C
+Maternal and Child Health, purple: 510C76
+Education and Work for Women, blue: 004987
+
+ACCENT PALETTE: LIGHT
+(blue is CARE Action)
+
+red: E91D2D
+green: CADB2B
+purple: B784BA
+blue: 0199D6
